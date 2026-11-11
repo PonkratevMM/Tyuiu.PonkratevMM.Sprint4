@@ -1,7 +1,7 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint4;
 namespace Tyuiu.PonkratevMM.Sprint4.Task7.V25.Lib
 {
-    public class DataService : ISprint4Task7V1
+    public class DataService : ISprint4Task7V25
     {
         public int Calculate(int n, int m, string value)
         {
